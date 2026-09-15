@@ -3,5 +3,5 @@
 | Miembro     | Rol en el equipo | Comando Git que más te ha costado |
 |-------------|------------------|-----------------------------------|
 | (Carles)    |       Admin      |                                   |
-| (miembro B) |                  |                                   |
+| (Raul)       |      Maintain   |                                   |
 | (miembro C) |                  |                                   |
