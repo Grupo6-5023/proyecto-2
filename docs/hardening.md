@@ -3,5 +3,5 @@
 Estado global: 0/3 completado
 
 - [carles] (ítem A, pendiente)
-- [ ] (ítem B, pendiente)
-- [ ] (ítem C, pendiente)
+- [Carles GaY] (ítem B, pendiente)
+- [ ] (ítem C, completado)
