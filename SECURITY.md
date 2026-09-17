@@ -1,6 +1,4 @@
 # Política de seguridad del equipo
 Contacto de seguridad: (Carles)
 Contacto de seguridad: (Raul)
-Última revisión: (Carles)
-Última revisión: (David)
-
+Última revisión: (David 19:01)
