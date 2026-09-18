@@ -2,6 +2,6 @@
 
 Estado global: 2/3 completado
 
-- [carles] (ítem A, pendiente)
+- [carles el señor del esclavo raul] (ítem A, pendiente)
 - [Carles GaY] (ítem B, pendiente)
 - [ ] (ítem C, completado)
