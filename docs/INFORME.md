@@ -22,3 +22,15 @@
     El hecho de tener una interfaz gráfica permite ver con facilidad lo que se hace y lo que se ha hecho, cambiar de ramas y hacer los commits, pulls y pushes de manera mas sencilla. También permite resolver los conflictos de manera mas visual.
     Algunas operaciones avanzadas como rebase, cherry-pick o limpiar el historial.
     Hemos entendido mejor el conflicto en Desktop.
+
+7. Roles: ¿qué puede hacer un Maintain que no pueda un Write? ¿Quién podría haber quitado la protección de `main`?
+    Ciertas tareas administrativas como gestionar algunas configuraciones y permisos del repositorio.
+    El administrador.
+
+8. Si mañana un miembro sube un force push a `main`, ¿qué se pierde y qué lo impide en vuestro repositorio?
+    Se podrian perder commits que estaban en el remoto pero ya no formen parte de la historia que se fuerza a subir.
+    Una configuracion de la proteccion de main que bloquea los force pushes.
+
+9. En la Fase 1 compartíais un portátil y en la Fase 2 cada uno tenía el suyo. ¿Qué diferencia práctica tiene eso para la identidad del autor de cada commit y para cómo aparecen los conflictos?
+    En el portatil todos los commits podian aparecer como la misma persona aunque fueran diferentes personas quienes lo han editado y en los diferentes cada uno tiene su propio nombre y correo.
+    Tener un portatil distinto no provoca ni evita conflictos por si mismo.
